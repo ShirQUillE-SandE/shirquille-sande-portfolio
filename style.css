@@ -32,7 +32,7 @@
 
 .dropdown{
 margin-left: 30px;
-margin-top: -150px;
+margin-top: -130px;
 }
 
 a {
@@ -67,12 +67,12 @@ li a {
 }
 
 li:hover {
-  background: red;
+  background: rgb(0, 0, 0);
   cursor: pointer;
 }
 
 ul li ul {
-  background: orange;
+  background: rgb(255, 255, 255);
   visibility: hidden;
   opacity: 0;
   min-width: 2px;
@@ -83,12 +83,12 @@ ul li ul {
   display: none;
 }
 
-ul li:hover > ul,
+/* ul li:hover > ul,
 ul li ul:hover {
   visibility: visible;
   opacity: 1;
   display: block;
-}
+} */
 
 ul li ul li {
   clear: both;
@@ -130,3 +130,5 @@ opacity: 40%;
     height: 100%;
     margin-top: 100px;
 }
+
+
