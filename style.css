@@ -131,4 +131,14 @@ opacity: 40%;
     margin-top: 100px;
 }
 
+.socials{
+  display:flex;
+  margin-top: 180px;
+padding-left: 10px;
+  color: aqua;
 
+}
+
+.bio{
+  color: white;
+}
