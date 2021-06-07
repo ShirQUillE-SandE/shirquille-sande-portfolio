@@ -20,7 +20,8 @@ shirquille.sande@student.moringaschool.com
 
 
 ##My gh-pages link
-https://shirquille-sande.github.io/anitas_kitchen/
+https://github.com/ShirQUillE-SandE/shirquille-sande-portfolio.git
+
 ### License
 *Licensed under the [MIT LICENSE](LICENSE.txt)*
 Copyright (c) 2021 **Shirquille Sande**
