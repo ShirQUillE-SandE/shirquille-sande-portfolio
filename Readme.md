@@ -3,7 +3,7 @@ SHIRQUILLE SANDE'S PORTFOLIO
 #### By **Shirquille Sande**
 
 ## Description
-This application is public record to show the works I have done as a junior developer i.e. HTML, CSS, git and github.
+This application is public record to show the works I have done as a junior developer i.e. HTML, CSS, git and github. Link: https://github.com/ShirQUillE-SandE/shirquille-sande-portfolio.git
 
 ## Setup/Installation Requirements
 * Visual Studio Code
